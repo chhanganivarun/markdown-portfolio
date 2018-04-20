@@ -1,1 +1,1 @@
-![Varun Chhangani](https://github.com/chhanganivarun/markdown-portfolio/_includes/VTCoder.jpeg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
