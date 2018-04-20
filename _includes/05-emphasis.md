@@ -1,3 +1,13 @@
+``` C++ 
+while(me.alive())
+{
+  me.eat();
+  me.code();
+  me.sleep();
+}
+me.RIP();
+```
+
 I have **NO** skills.
 <br>
 But know to program in a few languages...
