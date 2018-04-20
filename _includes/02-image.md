@@ -1,1 +1,1 @@
-![Varun Chhangani](https://github.com/chhanganivarun/markdown-portfolio/blob/master/_includes/VTCoder.jpeg)
+![Varun Chhangani](https://github.com/chhanganivarun/markdown-portfolio/_includes/VTCoder.jpeg)
