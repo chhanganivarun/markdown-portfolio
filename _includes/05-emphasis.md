@@ -1,5 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
 I have **NO** skills.
+<br>
+But know to program in a few languages...
+*Would be uploading about my projects till now later*
 
 Readablity and writeablity in following languages:
 - C++
