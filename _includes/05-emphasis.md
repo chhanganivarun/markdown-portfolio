@@ -8,6 +8,9 @@ Readablity and writeablity in following languages:
 - JS
 - BASH
 - C
+- PHP
+- Hindi
+- English
 
 Learning *Git* and *GitHub* as of now.
 Wannabe "Programmer with nice skills"
